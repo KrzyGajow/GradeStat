@@ -1,0 +1,12 @@
+Package: GradeStat
+Type: Package
+Title: GCA
+Version: 1.0.0
+Author: Krzysztof Gajowniczek
+Maintainer: Krzysztof Gajowniczek <krzysztof_gajowniczek@sggw.edu.pl>
+Description: The GradeStat software is a statistical package that enables the independent use of methods used in exploratory data analysis. The results of the analysis are available in the form of an overrepresentation map and correlation indicators.
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Depends: R (>= 3.5), data.table, DT, ggplot2, missForest, reshape2, readxl, shiny, shinyjs
+RoxygenNote: 7.2.3
